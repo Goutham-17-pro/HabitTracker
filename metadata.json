@@ -1,0 +1,6 @@
+{
+  "name": "LifeTrack",
+  "description": "Smart daily routine, habit, study timer, goal, analytics, and AI productivity tracker",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

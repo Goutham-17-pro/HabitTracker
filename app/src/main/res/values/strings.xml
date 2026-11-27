@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">LifeTrack</string>
+    <string name="tagline_smart_routine">Smart Daily Routine Tracker</string>
+    <string name="nav_dashboard">Dashboard</string>
+    <string name="nav_routine">Routine</string>
+    <string name="nav_habits">Habits</string>
+    <string name="nav_study">Study</string>
+    <string name="nav_goals">Goals</string>
+    <string name="nav_calendar">Calendar</string>
+    <string name="nav_analytics">Analytics</string>
+    <string name="nav_ai_coach">AI Coach</string>
+    <string name="nav_settings">Profile &amp; Settings</string>
+    <string name="ai_firebase_notice">AI features require Firebase AI Logic. Showing sample placeholder responses — enable Firebase to connect live Gemini.</string>
+</resources>
